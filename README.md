@@ -6,7 +6,7 @@
 
 No bloco desse projeto, somos apresentados às técnicas de raspagem de dados e às inúmeras possibilidades trazidas por elas.  Por exemplo, elas podem fornecer dados para construção de matérias jornalísticas, permitir a comparação de preços de produtos em sites concorrentes ou automatizar processos massantes como buscar por artigos científicos em bases acadêmicas. 
 
-A raspagem de dados em si consiste na extração de dados de sites (geralmente, manipulando tags HTML) e transformação desses dados para um formato mais simples e maleável que permitam sua análise. Assim, nesse projeto foi construído um raspador de dados na linguagem Python, utilizando os módulos externos `Requests` e `Parsel`.
+A raspagem de dados em si consiste na extração de dados de sites (geralmente, manipulando tags HTML) e transformação desses dados para um formato mais simples e maleável que permita sua análise. Assim, nesse projeto foi construído um raspador de dados na linguagem Python, utilizando os módulos externos `Requests` e `Parsel`.
 
 **Objetivo do projeto**
 
