@@ -21,7 +21,7 @@ Fazer consultas em notícias sobre tecnologia. Para isso será necessário criar
 **Tecnologias utilizada**
 
 - <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" height="35" align="center"/> - Python</a> 
-- <a href="https://www.mongodb.com/"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDB" align="center" height="34"/> - MongoDB</a>
+- <a href="https://www.mongodb.com/"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDB" align="center" height="30"/> - MongoDB</a>
 
 ---
 
