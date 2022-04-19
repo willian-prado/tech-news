@@ -10,7 +10,7 @@ A raspagem de dados em si consiste na extração de dados de sites (geralmente, 
 
 **Objetivo do projeto**
 
-Fazer consultas em notícias sobre tecnologia. Para isso será necessário criar um banco de dados, obter dados para popular este banco, e preparar consultas a serem feitas nestas notícias. As notícias devem ser obtidas por meio da **raspagem de dados** no site do [TecMundo](https://www.tecmundo.com.br/novidades). Após a raspagem, devem ser utilizadas as funções já existentes para salvá-las no banco de dados MongoDB.
+Fazer consultas em notícias sobre tecnologia. Para isso será necessário criar um banco de dados, obter dados para popular este banco, e preparar consultas a serem feitas nestas notícias. As notícias devem ser obtidas por meio da **raspagem de dados** no site do [TecMundo](https://www.tecmundo.com.br/novidades). Após a raspagem, devem ser utilizadas as funções já existentes para salvar os dados obtidos em um banco de dados MongoDB.
 
 **Principais habilidades desenvolvidas nesse trabalho**
 
