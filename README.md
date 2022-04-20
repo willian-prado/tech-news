@@ -1,12 +1,12 @@
 ## Projeto Tech News
 
-> Terceiro projeto do módulo de Ciência da Computação do curso de desenvolvimento web da Trybe.
+> Terceiro projeto do módulo de Ciência da Computação do curso de desenvolvimento web da [Trybe](https://www.betrybe.com/)
 
 **Contexto**
 
 No bloco desse projeto, somos apresentados às técnicas de raspagem de dados e às inúmeras possibilidades trazidas por elas.  Por exemplo, elas podem fornecer dados para construção de matérias jornalísticas, permitir a comparação de preços de produtos em sites concorrentes ou automatizar processos massantes como buscar por artigos científicos em bases acadêmicas. 
 
-A raspagem de dados em si consiste na extração de dados de sites (geralmente, manipulando tags HTML) e transformação desses dados para um formato mais simples e maleável que permita sua análise. Assim, nesse projeto foi construído um raspador de dados na linguagem Python, utilizando os módulos externos `Requests` e `Parsel`.
+A raspagem de dados em si consiste na extração de informações de sites (geralmente, manipulando tags HTML) e transformação desses dados para um formato mais simples e maleável que permita sua análise. Assim, nesse projeto foi construído um raspador de dados na linguagem Python, utilizando os módulos externos `Requests` e `Parsel`.
 
 **Objetivo do projeto**
 
@@ -306,3 +306,7 @@ local: `tech_news/menu.py`
 - Caso alguma exceção seja lançada, a mesma deve ser capturada e sua mensagem deve ser exibida na saída padrão de erros (`stderr`).
 
 ✍️ Teste manual: dentro de um ambiente virtual onde seu projeto foi configurado, digite o comando `tech-news-analyzer`, assim você conseguirá interagir com o menu.
+
+---
+
+[Ir para a lista de projetos](https://github.com/willian-prado/trybe-records)
